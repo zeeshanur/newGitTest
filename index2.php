@@ -1,5 +1,5 @@
 <?php
 print('SEVEN');
 print('EIGHT');
-print('new work');
+print('new task detail');
 ?>
